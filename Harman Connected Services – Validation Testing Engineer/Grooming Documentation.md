@@ -128,6 +128,64 @@ Round 1 is an offline Aptitude Test, conducted on paper or computer at the Harma
     - **Answer:** 15.
     - **Explanation:** It's just adding 1+2+3+4+5 = 15.
 
+- **Quantitative Example:** Time & distance problems, percentage calculations
+  - **Example (Time & Distance):** "Two trains A and B start from the same point at 8:00 AM and 8:30 AM respectively, traveling in the same direction. Train A moves at 60 km/h and Train B at 90 km/h. At what time will Train B catch up with Train A?"
+    - **Solution:** By 8:30 AM, Train A has been running for 30 minutes at 60 km/h, so it is 30 km ahead. The relative speed of B (90) relative to A (60) is 30 km/h (since B is faster by 30). To cover a 30 km lead at 30 km/h, Train B will take 1 hour. So, starting from 8:30 AM, one hour later is 9:30 AM. Therefore, B catches up A at 9:30 AM.
+  - **Example (Percentage):** "A product's price increased from ₹2000 to ₹2600. By what percentage did the price increase?"
+    - **Solution:** The increase is ₹600 on a base of ₹2000. Percentage increase = (600/2000) * 100 = 30%. So the price increased by 30%.
+
+- **Logical Reasoning Example:** Number series, logical puzzles, syllogisms
+  - **Example (Number Series):** "Find the next number in the series: 2, 6, 18, 54, …"
+    - **Solution:** Each number is multiplied by 3 to get the next (2×3=6, 6×3=18, 18×3=54). So the next number should be 54×3 = 162.
+  - **Example (Logical Puzzle):** "All cats are animals. Some animals are wild. Conclusion: Some cats are wild. – Is this conclusion (a) definitely true, (b) definitely false, or (c) uncertain?"
+    - **Solution:** From the statements, we know every cat is an animal, and there are some animals that are wild. However, we don't know if those wild animals include any cats or not. It's possible some cats are wild, but not guaranteed by the statements. So the conclusion is (c) Uncertain.
+
+- **Verbal Ability Example:** Grammar, vocabulary, reading comprehension
+  - **Example (Grammar):** "Choose the correct sentence:"
+    - a) She didn't knew the answer.
+    - b) She didn't know the answer.
+    - **Answer:** (b) She didn't know the answer.
+    - **Explanation:** When using did/didn't, the main verb should be in base form (know), not past tense (knew).
+  - **Example (Vocabulary):** "Find the word which is most opposite in meaning to 'AUTONOMOUS':"
+    - a) Independent
+    - b) Self-governing
+    - c) Dependent
+    - d) Free
+    - **Answer:** (c) Dependent (Autonomous means self-governing or independent, so the opposite is dependent).
+
+- **Technical Knowledge Example:** Programming output prediction, testing concepts, CS fundamentals
+  - **Example (Programming Output):** "What will be the output of the following C code snippet?
+    ```
+    int x = 5;
+    printf("%d", x++ * ++x);
+    ```
+    - Options: a) 30 b) 25 c) Undefined behavior d) 36
+    - **Answer:** c) Undefined behavior.
+    - **Explanation:** This is a tricky C question – modifying x twice (post-increment and pre-increment in the same expression) leads to undefined behavior in C.
+  
+  - **Example (Testing Concept):** "Which of the following is NOT a type of software testing?
+    - a) Unit Testing
+    - b) Integration Testing
+    - c) Regression Testing
+    - d) Compilation Testing"
+    - **Answer:** d) Compilation Testing.
+    - **Explanation:** Unit, Integration, Regression are all testing types. "Compilation testing" is not a standard term (compilation is a build process, not a testing methodology).
+  
+  - **Example (General CS):** "What does CRUD stand for in database context?"
+    - **Answer:** Create, Read, Update, Delete.
+    - **Explanation:** Basic acronym covering fundamental database operations.
+  
+  - **Example (Pseudo-code Logic):** "Consider the pseudo-code:
+    ```
+    initialize sum = 0  
+    for i from 1 to 5:  
+        sum = sum + i  
+    print sum  
+    ```
+    What is printed?"
+    - **Answer:** 15.
+    - **Explanation:** It's just adding 1+2+3+4+5 = 15.
+
 #### Preparation Tips
 - Practice aptitude questions daily
 - Review key formulas for quantitative problems
