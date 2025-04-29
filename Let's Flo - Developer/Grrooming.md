@@ -19,7 +19,7 @@
    - [Technical Interview Round](#technical-interview-round)
    - [HR Interview Round](#hr-interview-round)
 5. [Do’s and Don’ts](#dos-and-donts)
-6. [Motivational Conclusion](#motivational-conclusion)
+6. [Conclusion](#motivational-conclusion)
 
 ---
 
@@ -232,7 +232,7 @@ Detailed sample questions with **model interview-style answers**.
 
 ---
 
-## Motivational Conclusion
+##Conclusion
 
 > **Every expert was once a beginner.**  
 > You have a solid foundation—now bring your curiosity and confidence to each round.  
