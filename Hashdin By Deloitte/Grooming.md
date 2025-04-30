@@ -1,4 +1,4 @@
-```markdown
+
 # Interview Preparation Guide: HashedIn by Deloitte (Trainee Engineer, 2025 Campus Drive)
 
 ## Table of Contents
